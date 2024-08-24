@@ -1,4 +1,4 @@
-# Mahima Choudhary
+# Hey! This is Mahima Choudhary.
 
 **Software Development Intern | Front-End Development | Machine Learning**
 
