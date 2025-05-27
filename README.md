@@ -1,12 +1,10 @@
 # Hey! This is Mahima Choudhary.
 
-**Software Development Intern | Front-End Development | Machine Learning**
+**Software Developer | Front-End Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahima%20Choudhary-blue)](https://www.linkedin.com/in/mahima70/)
 [![GitHub](https://img.shields.io/badge/GitHub-MahimaChoudhary7-black)](https://github.com/MahimaChoudhary7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-pink-seven-27.vercel.app/)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-new-six-gilt.vercel.app/)
 
 ## About Me
 
@@ -14,31 +12,31 @@ Aspiring to secure an executive position where I can leverage my expertise in fr
 
 ## 🌟 Skills
 
-- **Programming Languages:** Python, JavaScript, C/C++, C#, .NET
-- **Web Development:** HTML, CSS, React.js, Django, Bootstrap
-- **Databases:** PostgreSQL, MySQL
+- **Programming Languages:** Python, JavaScript, C/C++
+- **Web Development:** HTML, CSS, React.js, Django, Bootstrap, Vue,js
+- **Databases:** MySQL
 - **Tools:** Figma, REST APIs
 - **Others:** Machine Learning, Emotional Intelligence, Leadership, Adaptability
 
 ## 💼 Experience
 
 **Software Development Intern**  
-*Bluestock Fintech (07/2024 - Present, Remote)*
+*Bluestock Fintech (07/2024 - 08/2024, Remote)*
 
-- Developed an IPO web application using HTML, CSS, JavaScript, Python, and Django.
-- Integrated REST APIs for seamless data access on Bluestock & client’s websites/apps.
-- Utilized PostgreSQL and Bootstrap for a user-friendly interface and efficient data management.
+- Developed and enhanced an IPO web application using HTML, CSS, JavaScript, Python, and Django, leading to a 40% improvement in system performance and user retention.
+- Integrated PostgreSQL and Bootstrap to optimize user experience and accessibility.
+- Collaborated with a cross-functional team to improve website functionality and engagement
 
 ## 🚀 Projects
 
-### [Portfolio Website](https://portfolio-pink-seven-27.vercel.app/)
-A personal portfolio website built using React, featuring sections like Home, About, Skills, Projects, Education, and Contact. The site boasts a responsive design, smooth scrolling, and interactive elements.
+### [Portfolio Website](https://portfolio-new-six-gilt.vercel.app/)
+A personal portfolio website built using JavaScript, featuring sections like Home, About, Skills, Projects, Education, and Contact. The site boasts a responsive design, smooth scrolling, and interactive elements.
 
 ### [Little-Lemon Restaurant App Website](https://little-lemon-restaurant-app-five.vercel.app/)
 A restaurant website built using React as part of the Meta Front-End Developer certificate program. It showcases table bookings, menu, services, and contact information.
 
-### [Real-Time Earthquake Predictor Web App](https://github.com/MahimaChoudhary7/earthquake_prediction)
-My B.Tech project, where I led the development of a real-time earthquake prediction web application using the Google Maps API. The app forecasts potential earthquake epicenters and affected areas within the next seven days.
+### [Resilient Fitness Gym Landing Page](https://gym-website-ochre-nu.vercel.app/)
+A modern and responsive landing page for a fitness/gym website built using Vue.js.
 
 ## 🎓 Education
 
@@ -61,5 +59,5 @@ My B.Tech project, where I led the development of a real-time earthquake predict
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahima70/) or check out my [portfolio](https://portfolio-pink-seven-27.vercel.app/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahima70/) or check out my [portfolio](https://portfolio-new-six-gilt.vercel.app/)!
 
