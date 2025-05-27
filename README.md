@@ -13,7 +13,7 @@ Aspiring to secure an executive position where I can leverage my expertise in fr
 ## 🌟 Skills
 
 - **Programming Languages:** Python, JavaScript, C/C++
-- **Web Development:** HTML, CSS, React.js, Django, Bootstrap, Vue,js
+- **Web Development:** HTML, CSS, React.js, Django, Bootstrap, Vue.js
 - **Databases:** MySQL
 - **Tools:** Figma, REST APIs
 - **Others:** Machine Learning, Emotional Intelligence, Leadership, Adaptability
