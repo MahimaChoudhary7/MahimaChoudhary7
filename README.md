@@ -13,10 +13,10 @@ Aspiring to secure an executive position where I can leverage my expertise in fr
 ## 🌟 Skills
 
 - **Programming Languages:** Python, JavaScript, C/C++
-- **Web Development:** HTML, CSS, React.js, Django, Bootstrap, Vue.js
+- **Web Development:** HTML, CSS, React.js, Bootstrap, Vue.js
 - **Databases:** MySQL
 - **Tools:** Figma, REST APIs
-- **Others:** Machine Learning, Emotional Intelligence, Leadership, Adaptability
+- **Others:** Artificial Intelligence, Machine Learning, Emotional Intelligence, Leadership, Adaptability
 
 ## 💼 Experience
 
@@ -25,7 +25,7 @@ Aspiring to secure an executive position where I can leverage my expertise in fr
 
 - Developed and enhanced an IPO web application using HTML, CSS, JavaScript, Python, and Django, leading to a 40% improvement in system performance and user retention.
 - Integrated PostgreSQL and Bootstrap to optimize user experience and accessibility.
-- Collaborated with a cross-functional team to improve website functionality and engagement
+- Collaborated with a cross-functional team to improve website functionality and engagement.
 
 ## 🚀 Projects
 
@@ -39,6 +39,9 @@ A restaurant website built using React as part of the Meta Front-End Developer c
 A modern and responsive landing page for a fitness/gym website built using Vue.js.
 
 ## 🎓 Education
+
+**Master's of Engineering in Computer Science & Engineering-(Artificial Intelligence & Machine Learning)**
+*Chandigarh University, Mohali, Punjab (22/July - Present)*
 
 **Bachelor of Technology in Computer Science & Engineering**  
 *Govind Ballabh Pant Institute of Engineering & Technology, Pauri Garhwal, Uttarakhand (12/2020 - 06/2024)*
@@ -55,7 +58,7 @@ A modern and responsive landing page for a fitness/gym website built using Vue.j
 
 - **Hindi:** Native
 - **English:** Proficient
-- **Korean:** Intermediate
+- **Korean:** Basic
 
 ---
 
