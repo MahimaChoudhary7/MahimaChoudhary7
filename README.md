@@ -41,7 +41,7 @@ A modern and responsive landing page for a fitness/gym website built using Vue.j
 ## 🎓 Education
 
 **Master's of Engineering in Computer Science & Engineering-(Artificial Intelligence & Machine Learning)**  
- *Chandigarh University, Mohali, Punjab (22/July - Present)*
+ *Chandigarh University, Mohali, Punjab (07/2025 - Present)*
 
 **Bachelor of Technology in Computer Science & Engineering**  
 *Govind Ballabh Pant Institute of Engineering & Technology, Pauri Garhwal, Uttarakhand (12/2020 - 06/2024)*
